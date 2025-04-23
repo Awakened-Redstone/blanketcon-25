@@ -13,7 +13,7 @@
 			"offsets": {
 				"normal": {
 					"top": 8,
-					"left": 4
+					"left": 8
 				},
 				"mini": {
 					"top": 2,
@@ -44,11 +44,11 @@
 			"offsets": {
 				"normal": {
 					"top": 8,
-					"left": 7
+					"left": 10
 				},
 				"mini": {
 					"top": 2,
-					"left": 3
+					"left": 2
 				}
 			},
 			"textures": {
@@ -74,8 +74,8 @@
 		"display": {
 			"offsets": {
 				"normal": {
-					"top": 13,
-					"left": 3
+					"top": 10,
+					"left": 10
 				},
 				"mini": {
 					"top": 3,
@@ -106,11 +106,11 @@
 			"offsets": {
 				"normal": {
 					"top": 13,
-					"left": 3
+					"left": 8
 				},
 				"mini": {
-					"top": 6,
-					"left": 1
+					"top": 2,
+					"left": 2
 				}
 			},
 			"textures": {
@@ -130,14 +130,14 @@
 		},
 		"list_order": 4
 	},
-	"modfest:mango": {
+	"modfest:lychee": {
 		"text_color": "#fcd64c",
 		"glow_color": "#fff596",
 		"display": {
 			"offsets": {
 				"normal": {
-					"top": 9,
-					"left": 3
+					"top": 8,
+					"left": 8
 				},
 				"mini": {
 					"top": 2,
@@ -161,18 +161,49 @@
 		},
 		"list_order": 5
 	},
+	"modfest:mango": {
+		"text_color": "#fcd64c",
+		"glow_color": "#fff596",
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 9,
+					"left": 7
+				},
+				"mini": {
+					"top": 2,
+					"left": 2
+				}
+			},
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 6
+	},
 	"modfest:passionfruit": {
 		"text_color": "#ca295c",
 		"glow_color": "#fff596",
 		"display": {
 			"offsets": {
 				"normal": {
-					"top": 13,
-					"left": 3
+					"top": 10,
+					"left": 6
 				},
 				"mini": {
-					"top": 6,
-					"left": 1
+					"top": 3,
+					"left": 2
 				}
 			},
 			"textures": {
@@ -190,6 +221,6 @@
 		"collect_sound": {
 			"sound_id": "scattered_shards:collect_challenge"
 		},
-		"list_order": 6
+		"list_order": 7
 	}
 }

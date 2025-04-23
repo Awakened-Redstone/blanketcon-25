@@ -6,7 +6,7 @@
 		]
 	},
 	"music.stereo.dormant": {
-		"subtitle":  "now-playing.modfest:music/dormant",
+		"subtitle": "now-playing.modfest:music/dormant",
 		"sounds": [
 			"modfest:music/stereo/dormant"
 		]
@@ -23,6 +23,306 @@
 			"modfest:music/stereo/mechanical_plateau"
 		]
 	},
+	"music.aerodrome": {
+		"subtitle": "now-playing.modfest:music/aerodrome",
+		"sounds": [
+			"modfest:music/aerodrome"
+		]
+	},
+	"music.stereo.aerodrome": {
+		"subtitle": "now-playing.modfest:music/aerodrome",
+		"sounds": [
+			"modfest:music/stereo/aerodrome"
+		]
+	},
+	"music.cerasus": {
+		"subtitle": "now-playing.modfest:music/cerasus",
+		"sounds": [
+			"modfest:music/cerasus"
+		]
+	},
+	"music.stereo.cerasus": {
+		"subtitle": "now-playing.modfest:music/cerasus",
+		"sounds": [
+			"modfest:music/stereo/cerasus"
+		]
+	},
+	"music.sub_aquatique": {
+		"subtitle": "now-playing.modfest:music/sub_aquatique",
+		"sounds": [
+			"modfest:music/sub_aquatique"
+		]
+	},
+	"music.stereo.sub_aquatique": {
+		"subtitle": "now-playing.modfest:music/sub_aquatique",
+		"sounds": [
+			"modfest:music/stereo/sub_aquatique"
+		]
+	},
+	"music.gather": {
+		"subtitle": "now-playing.modfest:music/gather",
+		"sounds": [
+			"modfest:music/gather"
+		]
+	},
+	"music.stereo.gather": {
+		"subtitle": "now-playing.modfest:music/gather",
+		"sounds": [
+			"modfest:music/stereo/gather"
+		]
+	},
+	"music.asteraceae": {
+		"subtitle": "now-playing.modfest:music/asteraceae",
+		"sounds": [
+			"modfest:music/asteraceae"
+		]
+	},
+	"music.stereo.asteraceae": {
+		"subtitle": "now-playing.modfest:music/asteraceae",
+		"sounds": [
+			"modfest:music/stereo/asteraceae"
+		]
+	},
+	"music.enchanting": {
+		"subtitle": "now-playing.modfest:music/enchanting",
+		"sounds": [
+			"modfest:music/enchanting"
+		]
+	},
+	"music.stereo.enchanting": {
+		"subtitle": "now-playing.modfest:music/enchanting",
+		"sounds": [
+			"modfest:music/stereo/enchanting"
+		]
+	},
+	"music.battle_brick_boulder": {
+		"subtitle": "now-playing.modfest:music/battle_brick_boulder",
+		"sounds": [
+			"modfest:music/battle_brick_boulder"
+		]
+	},
+	"music.stereo.battle_brick_boulder": {
+		"subtitle": "now-playing.modfest:music/battle_brick_boulder",
+		"sounds": [
+			"modfest:music/stereo/battle_brick_boulder"
+		]
+	},
+	"music.step_step_right_on_up": {
+		"subtitle": "now-playing.modfest:music/step_step_right_on_up",
+		"sounds": [
+			"modfest:music/step_step_right_on_up"
+		]
+	},
+	"music.stereo.step_step_right_on_up": {
+		"subtitle": "now-playing.modfest:music/step_step_right_on_up",
+		"sounds": [
+			"modfest:music/stereo/step_step_right_on_up"
+		]
+	},
+	"music.testing_waters": {
+		"subtitle": "now-playing.modfest:music/testing_waters",
+		"sounds": [
+			"modfest:music/testing_waters"
+		]
+	},
+	"music.stereo.testing_waters": {
+		"subtitle": "now-playing.modfest:music/testing_waters",
+		"sounds": [
+			"modfest:music/stereo/testing_waters"
+		]
+	},
+	"music.steps_of_the_swans": {
+		"subtitle": "now-playing.modfest:music/steps_of_the_swans",
+		"sounds": [
+			"modfest:music/steps_of_swans"
+		]
+	},
+	"music.stereo.steps_of_the_swans": {
+		"subtitle": "now-playing.modfest:music/steps_of_the_swans",
+		"sounds": [
+			"modfest:music/stereo/steps_of_the_swans"
+		]
+	},
+	"music.me_booty": {
+		"subtitle": "now-playing.modfest:music/me_booty",
+		"sounds": [
+			"modfest:music/me_booty"
+		]
+	},
+	"music.stereo.me_booty": {
+		"subtitle": "now-playing.modfest:music/me_booty",
+		"sounds": [
+			"modfest:music/stereo/me_booty"
+		]
+	},
+	"music.everpresence": {
+		"subtitle": "now-playing.modfest:music/everpresence",
+		"sounds": [
+			"modfest:music/everpresence"
+		]
+	},
+	"music.stereo.everpresence": {
+		"subtitle": "now-playing.modfest:music/everpresence",
+		"sounds": [
+			"modfest:music/stereo/everpresence"
+		]
+	},
+	"music.take_your_time": {
+		"subtitle": "now-playing.modfest:music/take_your_time",
+		"sounds": [
+			"modfest:music/take_your_time"
+		]
+	},
+	"music.stereo.take_your_time": {
+		"subtitle": "now-playing.modfest:music/take_your_time",
+		"sounds": [
+			"modfest:music/stereo/take_your_time"
+		]
+	},
+	"music.hakonechloa": {
+		"subtitle": "now-playing.modfest:music/hakonechloa",
+		"sounds": [
+			"modfest:music/hakonechloa"
+		]
+	},
+	"music.stereo.hakonechloa": {
+		"subtitle": "now-playing.modfest:music/hakonechloa",
+		"sounds": [
+			"modfest:music/stereo/hakonechloa"
+		]
+	},
+	"music.hyperacusis": {
+		"subtitle": "now-playing.modfest:music/hyperacusis",
+		"sounds": [
+			"modfest:music/hyperacusis"
+		]
+	},
+	"music.stereo.hyperacusis": {
+		"subtitle": "now-playing.modfest:music/hyperacusis",
+		"sounds": [
+			"modfest:music/stereo/hyperacusis"
+		]
+	},
+	"music.brand_new_discoveries": {
+		"subtitle": "now-playing.modfest:music/brand_new_discoveries",
+		"sounds": [
+			"modfest:music/brand_new_discoveries"
+		]
+	},
+	"music.stereo.brand_new_discoveries": {
+		"subtitle": "now-playing.modfest:music/brand_new_discoveries",
+		"sounds": [
+			"modfest:music/stereo/brand_new_discoveries"
+		]
+	},
+	"music.dioxide": {
+		"subtitle": "now-playing.modfest:music/dioxide",
+		"sounds": [
+			"modfest:music/dioxide"
+		]
+	},
+	"music.stereo.dioxide": {
+		"subtitle": "now-playing.modfest:music/dioxide",
+		"sounds": [
+			"modfest:music/stereo/dioxide"
+		]
+	},
+	"music.amalgamate": {
+		"subtitle": "now-playing.modfest:music/amalgamate",
+		"sounds": [
+			"modfest:music/amalgamate"
+		]
+	},
+	"music.stereo.amalgamate": {
+		"subtitle": "now-playing.modfest:music/amalgamate",
+		"sounds": [
+			"modfest:music/stereo/amalgamate"
+		]
+	},
+	"music.short_and_sweat": {
+		"subtitle": "now-playing.modfest:music/short_and_sweat",
+		"sounds": [
+			"modfest:music/short_and_sweat"
+		]
+	},
+	"music.stereo.short_and_sweat": {
+		"subtitle": "now-playing.modfest:music/short_and_sweat",
+		"sounds": [
+			"modfest:music/stereo/short_and_sweat"
+		]
+	},
+	"music.unstable_transmission": {
+		"subtitle": "now-playing.modfest:music/unstable_transmission",
+		"sounds": [
+			"modfest:music/unstable_transmission"
+		]
+	},
+	"music.stereo.unstable_transmission": {
+		"subtitle": "now-playing.modfest:music/unstable_transmission",
+		"sounds": [
+			"modfest:music/stereo/unstable_transmission"
+		]
+	},
+	"music.coalesce": {
+		"subtitle": "now-playing.modfest:music/coalesce",
+		"sounds": [
+			"modfest:music/coalesce"
+		]
+	},
+	"music.stereo.coalesce": {
+		"subtitle": "now-playing.modfest:music/coalesce",
+		"sounds": [
+			"modfest:music/stereo/coalesce"
+		]
+	},
+	"music.erruption": {
+		"subtitle": "now-playing.modfest:music/erruption",
+		"sounds": [
+			"modfest:music/erruption"
+		]
+	},
+	"music.stereo.erruption": {
+		"subtitle": "now-playing.modfest:music/erruption",
+		"sounds": [
+			"modfest:music/stereo/erruption"
+		]
+	},
+	"music.floraison": {
+		"subtitle": "now-playing.modfest:music/floraison",
+		"sounds": [
+			"modfest:music/floraison"
+		]
+	},
+	"music.stereo.floraison": {
+		"subtitle": "now-playing.modfest:music/floraison",
+		"sounds": [
+			"modfest:music/stereo/floraison"
+		]
+	},
+	"music.wawariding_the_waves": {
+		"subtitle": "now-playing.modfest:music/wawariding_the_waves",
+		"sounds": [
+			"modfest:music/wawariding_the_waves"
+		]
+	},
+	"music.stereo.wawariding_the_waves": {
+		"subtitle": "now-playing.modfest:music/wawariding_the_waves",
+		"sounds": [
+			"modfest:music/stereo/wawariding_the_waves"
+		]
+	},
+	"music.prologue": {
+		"subtitle": "now-playing.modfest:music/prologue",
+		"sounds": [
+			"modfest:music/prologue"
+		]
+	},
+	"music.stereo.prologue": {
+		"subtitle": "now-playing.modfest:music/prologue",
+		"sounds": [
+			"modfest:music/stereo/prologue"
+		]
+	},
 	"music.hot_treacle": {
 		"subtitle": "now-playing.modfest:music/hot_treacle",
 		"sounds": [
@@ -33,6 +333,76 @@
 		"subtitle": "now-playing.modfest:music/hot_treacle",
 		"sounds": [
 			"modfest:music/stereo/hot_treacle"
+		]
+	},
+	"music.area.airship": {
+		"subtitle": "now-playing.modfest:music/area/airship",
+		"sounds": [
+			"modfest:music/stereo/aerodrome",
+			"modfest:music/stereo/floraison"
+		]
+	},
+	"music.area.jungle": {
+		"subtitle": "now-playing.modfest:music/area/jungle",
+		"sounds": [
+			"modfest:music/stereo/amalgamate",
+			"modfest:music/stereo/dioxide",
+			"modfest:music/stereo/coalesce"
+		]
+	},
+	"music.area.forest": {
+		"subtitle": "now-playing.modfest:music/area/forest",
+		"sounds": [
+			"modfest:music/stereo/cerasus",
+			"modfest:music/stereo/gather",
+			"modfest:music/stereo/enchanting",
+			"modfest:music/stereo/mechanical_plateau"
+		]
+	},
+	"music.area.town": {
+		"subtitle": "now-playing.modfest:music/area/town",
+		"sounds": [
+			"modfest:music/stereo/battle_brick_boulder",
+			"modfest:music/stereo/steps_of_the_swans"
+		]
+	},
+	"music.area.beach": {
+		"subtitle": "now-playing.modfest:music/area/beach",
+		"sounds": [
+			"modfest:music/stereo/brand_new_discoveries",
+			"modfest:music/stereo/wawariding_the_waves",
+			"modfest:music/stereo/sub_aquatique",
+			"modfest:music/stereo/testing_waters"
+		]
+	},
+	"music.area.volcano": {
+		"subtitle": "now-playing.modfest:music/area/volcano",
+		"sounds": [
+			"modfest:music/stereo/brand_new_discoveries",
+			"modfest:music/stereo/unstable_transmission",
+			"modfest:music/stereo/hot_treacle"
+		]
+	},
+	"music.area.carnival": {
+		"subtitle": "now-playing.modfest:music/area/carnival",
+		"sounds": [
+			"modfest:music/stereo/step_step_right_on_up",
+			"modfest:music/stereo/asteraceae"
+		]
+	},
+	"music.area.pirate": {
+		"subtitle": "now-playing.modfest:music/area/pirate",
+		"sounds": [
+			"modfest:music/stereo/me_booty"
+		]
+	},
+	"music.area.intermezzo": {
+		"subtitle": "now-playing.modfest:music/area/intermezzo",
+		"sounds": [
+			"modfest:music/stereo/everpresence",
+			"modfest:music/stereo/take_your_time",
+			"modfest:music/stereo/hakonechloa",
+			"modfest:music/stereo/hyperacusis"
 		]
 	}
 }

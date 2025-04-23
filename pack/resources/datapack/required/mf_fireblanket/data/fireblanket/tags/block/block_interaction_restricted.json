@@ -15,6 +15,14 @@
 		"minecraft:dropper",
 		"minecraft:hopper",
 		"minecraft:crafter",
-		"map_utils:variable_redstone_block"
+		"map_utils:variable_redstone_block",
+		"#missingwilds:jars",
+		"hollow:jar",
+		"superposition:signal_generator",
+		"superposition:amplifier",
+		"superposition:filter",
+		"superposition:computer",
+		"superposition:combinator",
+		"superposition:constant_combinator"
 	]
 }

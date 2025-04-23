@@ -15,6 +15,7 @@ cantilever
 
 # Included manually
 impillagers
+ppetp
 
 # Disorderly mixin https://github.com/Nico44YT/Liby/blob/fabric-1.21.1/src/main/java/nazario/liby/mixin/TagGroupLoaderMixin.java
 #snapshotmc
@@ -29,7 +30,7 @@ impillagers
 #subtle-effects
 
 # Currently breaks chunkloading
-colorful-lanterns
+#colorful-lanterns
 
 # need meta fixed, then testing
 #coretechs
@@ -59,7 +60,7 @@ thoroughfabric
 #maddys_origins
 #minopp
 #mirthdew-encore
-monthofswords
+#monthofswords
 #necessity
 #neomtr
 oceanic-weaponry
